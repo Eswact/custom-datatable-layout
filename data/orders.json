@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "orderNumber": "2142635019",
+      "state": 0, 
+      "date": "23/12/2017 12:34",
+      "platform": 1,
+      "customer": "John Smith",
+      "address": "894 Cameron Road, Westfield, NY 76520",
+      "cargo": 5,
+      "deliveryMethod": 1,
+      "cargoNumber": "7250000128768464",
+      "price": 370
+    },
+    {
+      "orderNumber": "3256897045",
+      "state": 2, 
+      "date": "15/04/2018 09:45",
+      "platform": 3,
+      "customer": "Maria Rodriguez",
+      "address": "221 Willow Street, Rossville, GA 30741",
+      "cargo": 2,
+      "deliveryMethod": 2,
+      "cargoNumber": "8023569012345678",
+      "price": 520
+    },
+    {
+      "orderNumber": "4785123067",
+      "state": 3, 
+      "date": "02/11/2019 15:20",
+      "platform": 4,
+      "customer": "Liam Johnson",
+      "address": "705 Oak Street, Jackson, MI 49201",
+      "cargo": 1,
+      "deliveryMethod": 1,
+      "cargoNumber": "1234567890123456",
+      "price": 670
+    },
+    {
+      "orderNumber": "6098235741",
+      "state": 1, 
+      "date": "07/08/2020 18:12",
+      "platform": 2,
+      "customer": "Sophie Davis",
+      "address": "432 Main Street, Lexington, KY 40507",
+      "cargo": 3,
+      "deliveryMethod": 2,
+      "cargoNumber": "9876543210987654",
+      "price": 450
+    },
+    {
+      "orderNumber": "7358941023",
+      "state": 4, 
+      "date": "19/05/2021 10:56",
+      "platform": 1,
+      "customer": "Alex Johnson",
+      "address": "601 Pine Street, Elko, NV 89801",
+      "cargo": 5,
+      "deliveryMethod": 1,
+      "cargoNumber": "6543210987654321",
+      "price": 800
+    },
+    {
+      "orderNumber": "8712450932",
+      "state": 0, 
+      "date": "12/01/2022 14:28",
+      "platform": 1,
+      "customer": "Isabella Lee",
+      "address": "789 Elm Street, Boulder, CO 80302",
+      "cargo": 5,
+      "deliveryMethod": 2,
+      "cargoNumber": "8765432109876543",
+      "price": 600
+    },
+    {
+      "orderNumber": "9456728310",
+      "state": 2, 
+      "date": "30/08/2022 08:53",
+      "platform": 1,
+      "customer": "Daniel Miller",
+      "address": "315 Oak Lane, Ames, IA 50010",
+      "cargo": 5,
+      "deliveryMethod": 1,
+      "cargoNumber": "3456789012345678",
+      "price": 420
+    },
+    {
+      "orderNumber": "1029384756",
+      "state": 3, 
+      "date": "17/03/2023 11:45",
+      "platform": 1,
+      "customer": "Emily Wilson",
+      "address": "120 Maple Avenue, Lubbock, TX 79401",
+      "cargo": 5,
+      "deliveryMethod": 1,
+      "cargoNumber": "2345678901234567",
+      "price": 720
+    },
+    {
+      "orderNumber": "1165928374",
+      "state": 1, 
+      "date": "04/11/2023 17:30",
+      "platform": 2,
+      "customer": "Mason Taylor",
+      "address": "489 Pine Lane, Billings, MT 59101",
+      "cargo": 2,
+      "deliveryMethod": 2,
+      "cargoNumber": "5678901234567890",
+      "price": 550
+    },
+    {
+      "orderNumber": "1203948576",
+      "state": 4, 
+      "date": "22/06/2024 09:15",
+      "platform": 5,
+      "customer": "Ava Jackson",
+      "address": "876 Cedar Street, Topeka, KS 66601",
+      "cargo": 1,
+      "deliveryMethod": 1,
+      "cargoNumber": "7890123456789012",
+      "price": 900
+    }
+  ]
+}

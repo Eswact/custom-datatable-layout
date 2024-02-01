@@ -1,0 +1,67 @@
+{
+    "platforms": {
+        "amazon": {
+            "id": 1,
+            "name": "Amazon",
+            "logo": "/media/amazon-logo.png"
+        },
+        "ebay": {
+            "id": 2,
+            "name": "eBay",
+            "logo": "/media/ebay.png"
+        },
+        "alibaba": {
+            "id": 3,
+            "name": "Alibaba",
+            "logo": "/media/alibaba.png"
+        },
+        "shopify": {
+            "id": 4,
+            "name": "Shopify",
+            "logo": "/media/shopify.png"
+        },
+        "magento": {
+            "id": 5,
+            "name": "Magento",
+            "logo": "/media/magento.png"
+        }
+    },
+    "cargos": {
+        "ups": {
+            "id": 1,
+            "name": "UPS",
+            "logo": "/media/ups.png"
+        },
+        "fedex": {
+            "id": 2,
+            "name": "FedEx",
+            "logo": "/media/fedex.png"
+        },
+        "usps": {
+            "id": 3,
+            "name": "USPS",
+            "logo": "/media/usps.png"
+        },
+        "dhl": {
+            "id": 4,
+            "name": "DHL",
+            "logo": "/media/dhl.png"
+        },
+        "amazon": {
+            "id": 5,
+            "name": "Amazon Logistics",
+            "logo": "/media/amazon-logistics.png"
+        }
+    },
+    "states": {
+        "created": 0,
+        "accepted": 1,
+        "prepared": 2,
+        "shipped": 3,
+        "delivered": 4
+    },
+    "deliveryMethotds": {
+        "sellerPay": 1,
+        "customerPay": 2
+    }
+}
